@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name" translatable="false">QuizAppPruebaWH</string>
+    <string name="hint">Hint</string>
+    <string name="start_num" translatable="false">100</string>
+    <string name="go_back">Vuelva</string>
+    <string name="how_bad">¿Qué tan mal quieres una pista? Click 100 veces \\n|\\n|\\nV</string>
+    <string name="bet_prompt">¿Cuántos puntos quieres apostar?</string>
+    <string name="go_on">Continúa</string>
+    <string name="final_q">Cómo se dice camisa en inglés?</string>
+    <string name="prompt" translatable="false">Answer:</string>
+    <string name="submit">Envia</string>
+    <string name="email">Correo Electronicó</string>
+    <string name="reset">Reincia</string>
+    <string name="estimate">estimate</string>
+    <string name="stomach">stomach</string>
+    <string name="magic">magic</string>
+    <string name="man">man</string>
+    <string name="soup">soup</string>
+    <string name="scope">scope</string>
+    <string name="soap">soap</string>
+    <string name="map">map</string>
+    <string name="human">human</string>
+    <string name="hand">hand</string>
+    <string name="hermit">hermit</string>
+    <string name="brother">brother</string>
+    <string name="mail">mail</string>
+    <string name="male">male</string>
+    <string name="honey">honey</string>
+    <string name="fear">fear</string>
+    <string name="orange">orange</string>
+    <string name="spider">spider</string>
+    <string name="anger">anger</string>
+    <string name="array">array</string>
+    <string name="q1">¿Cómo se dice estómago en inglés?</string>
+    <string name="q2">¿Cómo se dice sopa en inglés?</string>
+    <string name="q3">¿Cómo se dice hermano en inglés?</string>
+    <string name="q4">¿Cómo se dice miel en inglés?</string>
+    <string name="q5">¿Cómo se dice araña en inglés?</string>
+    <string name="h1">Es una parte del cuerpo</string>
+    <string name="h2">Es una comida</string>
+    <string name="h3">Es un miembre de familia</string>
+    <string name="h4">Es dulce</string>
+    <string name="h5">Tiene ocho patas</string>
+    <string name="correct">Correcto</string>
+    <string name="incorrect">Incorrecto</string>
+    <string name="points">"Puntaje: "</string>
+    <string name="subject">Puntaje en la Prueba</string>
+    <string name="recibes">"Recibes "</string>
+    <string name="body">/5 en la prueba español</string>
+    <string name="pick_app" translatable="false">Pick app</string>
+    <string name="shirt">shirt</string>
+
+
+</resources>
